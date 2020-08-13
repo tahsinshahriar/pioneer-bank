@@ -1,0 +1,17 @@
+body{
+    padding: 150px;
+}
+
+.submit-area{
+    margin-top: 50px;
+    padding: 40px;
+    /* border: 1px solid dimgray; */
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.submit-area input{
+    margin: 20px 0px;
+    padding: 1.5em 1em;
+    border-radius: 5px;
+}
