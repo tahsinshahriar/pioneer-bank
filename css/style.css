@@ -6,6 +6,10 @@ body{
 h1{
     font-weight: 500;
 }
+.login-form{
+    width: 500px;
+    margin: 0 auto;
+}
 
 .submit-area{
     margin-top: 50px;
@@ -23,6 +27,7 @@ h1{
 
 .submit-area button {
     box-shadow: 2px 2px 5px gray;
+    padding: .75em .75em;
 }
 
 #transaction-area{
